@@ -1,6 +1,10 @@
 ---
-layout: page
-title: aboutme
-permalink: /about.md
+layout: default
+title: About
 ---
-vendredi 20 décembre
+# About page
+
+This page tells you a little bit about me.
+
+> [!note]
+>vendredi 20 décembre 2024
