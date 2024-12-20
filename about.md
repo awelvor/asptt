@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "PAGE-TITLE"
+title: aboutme
 permalink: /about.md
 ---
 vendredi 20 écembre
